@@ -1,9 +1,8 @@
-# Doxing-tool
-Termux tool doxing 
+# Doxing-twwwjwjww
 
 ‐‐‐‐‐‐‐‐‐‐‐‐‐‐
 install
-‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐
+‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐wwmmwmwwwmwsmamsmmams
 
 pkg update & pkg upgrade
 
